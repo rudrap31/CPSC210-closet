@@ -1,0 +1,139 @@
+{
+    "p": {
+        "outfits": [{
+            "top": {
+                "colour": "Green",
+                "filepath": "data/imgs/p/whitee.png",
+                "name": "Green Hoodie",
+                "category": "Hoodie"
+            },
+            "bottom": {
+                "colour": "Blue",
+                "filepath": "data/imgs/p/whitee.png",
+                "name": "Baggy Jeans",
+                "category": "Sweatpants"
+            },
+            "shoe": {
+                "colour": "Red",
+                "filepath": "data/imgs/p/xor.png",
+                "name": "Jordans",
+                "category": "Sneakers"
+            }
+        }],
+        "clothes": {
+            "Top": [{
+                "colour": "Green",
+                "filepath": "data/imgs/p/whitee.png",
+                "name": "Green Hoodie",
+                "category": "Hoodie"
+            }],
+            "Bottom": [{
+                "colour": "Blue",
+                "filepath": "data/imgs/p/whitee.png",
+                "name": "Baggy Jeans",
+                "category": "Sweatpants"
+            }],
+            "Shoe": [{
+                "colour": "Red",
+                "filepath": "data/imgs/p/xor.png",
+                "name": "Jordans",
+                "category": "Sneakers"
+            }]
+        }
+    },
+    "Test": {
+        "outfits": [],
+        "clothes": {
+            "Top": [
+                {
+                    "colour": "Gray",
+                    "filepath": "data/imgs/Test/grayhoodie.png",
+                    "name": "HM Hoodie",
+                    "category": "Hoodie"
+                },
+                {
+                    "colour": "White",
+                    "filepath": "data/imgs/Test/whiteshirt.png",
+                    "name": "Walmart Shirt",
+                    "category": "Shirt"
+                },
+                {
+                    "colour": "Brown",
+                    "filepath": "data/imgs/Test/brownhoodie.jpeg",
+                    "name": "Old Navy Hoodie",
+                    "category": "Hoodie"
+                }
+            ],
+            "Bottom": [
+                {
+                    "colour": "Blue",
+                    "filepath": "data/imgs/Test/baggyjeans.png",
+                    "name": "Baggy Jeans",
+                    "category": "Jeans"
+                },
+                {
+                    "colour": "Grey",
+                    "filepath": "data/imgs/Test/vecteezy_stylish-black-sweatpants-mockup-on-transparent-background_52321873.png",
+                    "name": "Yeezy Sweats",
+                    "category": "Sweatpants"
+                }
+            ],
+            "Shoe": [
+                {
+                    "colour": "white",
+                    "filepath": "data/imgs/Test/forces.png",
+                    "name": "Air Forces",
+                    "category": "Sneakers"
+                },
+                {
+                    "colour": "Blue",
+                    "filepath": "data/imgs/Test/bluedunks.png",
+                    "name": "Blue Dunks",
+                    "category": "Sneakers"
+                }
+            ]
+        }
+    },
+    "k": {
+        "outfits": [{
+            "top": {
+                "colour": "ddd",
+                "filepath": "data/imgs/k/whitee.png",
+                "name": "d",
+                "category": "Hoodie"
+            },
+            "bottom": {
+                "colour": "adda",
+                "filepath": "data/imgs/k/xor.png",
+                "name": "da",
+                "category": "Sweatpants"
+            },
+            "shoe": {
+                "colour": "daad",
+                "filepath": "data/imgs/k/xor.png",
+                "name": "dadada",
+                "category": "Sneakers"
+            }
+        }],
+        "clothes": {
+            "Top": [{
+                "colour": "ddd",
+                "filepath": "data/imgs/k/whitee.png",
+                "name": "d",
+                "category": "Hoodie"
+            }],
+            "Bottom": [{
+                "colour": "adda",
+                "filepath": "data/imgs/k/xor.png",
+                "name": "da",
+                "category": "Sweatpants"
+            }],
+            "Shoe": [{
+                "colour": "daad",
+                "filepath": "data/imgs/k/xor.png",
+                "name": "dadada",
+                "category": "Sneakers"
+            }]
+        }
+    }
+}

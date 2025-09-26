@@ -1,0 +1,42 @@
+{"Rudra": {
+    "outfits": [{
+        "top": {
+            "colour": "Red",
+            "filepath": "data/top.png",
+            "name": "Balenciaga",
+            "category": "Shirt"
+        },
+        "bottom": {
+            "colour": "Blue",
+            "filepath": "data/bottom.png",
+            "name": "HM",
+            "category": "Jeans"
+        },
+        "shoe": {
+            "colour": "White",
+            "filepath": "data/shoe.png",
+            "name": "Forces",
+            "category": "Sneakers"
+        }
+    }],
+    "clothes": {
+        "Top": [{
+            "colour": "Red",
+            "filepath": "data/top.png",
+            "name": "Balenciaga",
+            "category": "Shirt"
+        }],
+        "Bottom": [{
+            "colour": "Blue",
+            "filepath": "data/bottom.png",
+            "name": "HM",
+            "category": "Jeans"
+        }],
+        "Shoe": [{
+            "colour": "White",
+            "filepath": "data/shoe.png",
+            "name": "Forces",
+            "category": "Sneakers"
+        }]
+    }
+}}

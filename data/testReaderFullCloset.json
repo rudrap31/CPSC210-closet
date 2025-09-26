@@ -1,0 +1,78 @@
+{
+    "Rudra": {
+        "outfits": [
+            {
+                "top": {
+                    "colour": "Purple",
+                    "name": "Balenciaga",
+                    "category": "Hoodie",
+                    "filepath": "data/top.png"
+                },
+                "bottom": {
+                    "colour": "Black",
+                    "name": "HM",
+                    "category": "Sweatpants",
+                     "filepath": "data/bottom.png"
+                },
+                "shoe": {
+                    "colour": "Light Blue",
+                    "name": "Forces",
+                    "category": "Sneakers",
+                     "filepath": "data/shoe.png"
+                }
+            },
+            {
+                "top": {
+                    "colour": "Grey",
+                    "name": "Arcteryx",
+                    "category": "Jacket",
+                    "filepath": "data/top1.png"
+                },
+                "bottom": {
+                    "colour": "Black",
+                    "name": "HM",
+                    "category": "Sweatpants",
+                     "filepath": "data/bottom.png"
+                },
+                "shoe": {
+                    "colour": "Light Blue",
+                    "name": "Forces",
+                    "category": "Sneakers",
+                     "filepath": "data/shoe.png"
+                }
+            }
+        ],
+        "clothes": {
+            "Top": [
+                {
+                    "colour": "Purple",
+                    "name": "Balenciaga",
+                    "category": "Hoodie",
+                    "filepath": "data/top.png"
+                },
+                {
+                    "colour": "Grey",
+                    "name": "Arcteryx",
+                    "category": "Jacket",
+                    "filepath": "data/top1.png"
+                }
+            ],
+            "Bottom": [
+                {
+                    "colour": "Black",
+                    "name": "HM",
+                    "category": "Sweatpants",
+                     "filepath": "data/bottom.png"
+                }
+            ],
+            "Shoe": [
+                {
+                    "colour": "Light Blue",
+                    "name": "Forces",
+                    "category": "Sneakers",
+                     "filepath": "data/shoe.png"
+                }
+            ]
+        }
+    }
+}
